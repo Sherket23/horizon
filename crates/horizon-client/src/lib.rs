@@ -13,3 +13,4 @@ pub mod mod_api;
 mod brewing_speed_load_tests;
 #[cfg(test)]
 mod living_death_tests;
+pub mod android_loop;
